@@ -32,6 +32,6 @@
   console.log("function name() {} is same as name=()=>{}, coz of new ES6 syntax")
   console.log("Used ES6 arrow functions, done harder part of assignment :)")
   console.log("ES6 arrow function syntax: someName=()=>{}")
-  console.log("https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions")
+  console.log("Link to ES6: \nhttps://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions\n\n\n\n")
 })(window);
 
