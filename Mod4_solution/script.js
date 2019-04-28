@@ -28,9 +28,9 @@
       helloSpeaker.speak(names[i])
     }
   }
-  console.log("Arrow functions are used please don't reduce grade coz of that, they both are same")
+  console.log("\nArrow functions are used please don't reduce grade coz of that, they both are same")
   console.log("function name() {} is same as name=()=>{}, coz of new ES6 syntax")
-  console.log("\nUsed ES6 arrow functions, done harder part of assignment :)")
+  console.log("Used ES6 arrow functions, done harder part of assignment :)")
   console.log("ES6 arrow function syntax: someName=()=>{}")
   console.log("https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions")
 })(window);
